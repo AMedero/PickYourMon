@@ -6,6 +6,17 @@ El objetivo de este proyecto fue poner en práctica lógica de programación con
 
 🔗 **[Pruebe la Demo usted mismo] https://amedero.github.io/PickYourMon/*
 
+## 📸 Capturas de Pantalla (PC vs. Móvil)
+
+Acá podés ver cómo se adapta la página a distintas pantallas y sus funcionalidades principales:
+
+| Característica | Vista PC | Vista Móvil |
+|:---:|:---:|:---:|
+| **Home y Productos** | <img src="./images/capturas/pc/pc_inicio.png" width="350" alt="inicio pc"> | <img src="./images/capturas/mobile/mobile_inicio.png" width="150" alt="inicio mobile"> |
+| **Carrito de Compras** | <img src="./images/capturas/pc/pc_carrito.png" width="350" alt="Carrito pc"> | <img src="./images/capturas/mobile/mobile_carrito.png" width="150" alt="Carrito mobile"> |
+| **Finalizar Compra** | <img src="./images/capturas/pc/pc_compra_realizada.png" width="350" alt="Compra realizada pc"> | <img src="./images/capturas/mobile/mobile_compra_realizada.png" width="150" alt="Compra realizada mobile"> |
+| **Página de Contacto** | <img src="./images/capturas/pc/pc_contacto.png" width="350" alt="Contacto Desktop"> | <img src="./images/capturas/mobile/mobile_contacto.png" width="150" alt="Contacto Móvil"> |
+
 
 ## 🚀 Funcionalidades Clave
 
