@@ -4,7 +4,7 @@
 
 El objetivo de este proyecto fue poner en práctica lógica de programación con **JavaScript puro**, manipulación del DOM y persistencia de datos, sin depender de frameworks.
 
-🔗 **[Pruebe la Demo usted mismo] https://amedero.github.io/PickYourMon/*
+🔗 **[Pruebe la Demo usted mismo] https://amedero.github.io/PickYourMon-FrontEnd/**
 
 ## 📸 Capturas de Pantalla (PC vs. Móvil)
 
